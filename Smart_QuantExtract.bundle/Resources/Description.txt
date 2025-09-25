@@ -1,0 +1,4 @@
+Description:
+Smart_QuantExtract is a smart Revit add-in that instantly extracts concrete and reinforcement quantities from your model. Get accurate volumes, bar lengths, and weights with zero manual effort. Export directly to Excel or Power BI for fast, reliable estimation and reporting. Save time, reduce errors, and streamline your project workflow.
+
+Author: Shishupal Singh

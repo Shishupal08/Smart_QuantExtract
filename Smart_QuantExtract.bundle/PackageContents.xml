@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ApplicationPackage
+    SchemaVersion="1.0"
+    AutodeskProduct="Revit"
+    Name="Smart QuantExtract"
+    Description="Extract Concrete, Reinforcement and Formwork Quantities directly from Revit models."
+    AppVersion="1.0.0"
+    FriendlyVersion="1.0"
+    ProductType="Application"
+    Author="Your Name or Company"
+    Icon="./Contents/Resources/icon.png"
+    AppName="Smart_QuantExtract"
+    AppDescription="Quantity Extraction Tool for Revit"
+    SupportedPlatforms="x64"
+    AddInType="Command"
+    AppId="C4574541-769E-4C86-B0EF-6D1F4F675A5B"
+    OS="Win64">
+
+  <CompanyDetails Name="Your Company" Url="https://yourwebsite.com" Email="youremail@example.com" />
+
+  <Components>
+    <ComponentEntry AppName="Smart_QuantExtract" Version="1.0.0" ModuleName="./Contents/Win64/Smart_QuantExtract.dll" AppDescription="Extracts quantities from Revit model">
+      <Commands>
+        <Command Name="Smart_QuantExtract.MainCommand" />
+      </Commands>
+    </ComponentEntry>
+  </Components>
+
+</ApplicationPackage>
