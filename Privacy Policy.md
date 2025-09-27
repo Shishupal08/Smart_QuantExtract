@@ -2,7 +2,7 @@
 
 Effective Date: 27-Sep-25
 
-Smart_QuantExtract (“the App”) is an Autodesk® Revit® add-in developed and published by [Your Name / Publisher Name].
+Smart_QuantExtract (“the App”) is an Autodesk® Revit® add-in developed and published by Shishupal Singh.
 
 We value your privacy. This Privacy Policy explains how the App handles user information.
 
